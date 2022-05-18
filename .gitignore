@@ -10,8 +10,17 @@
 * .userosscache
 * .sln.docstates
 
+# Консольные файлы
+
+syntax: glob
+bin
+obj
+*.suo
+*.user
+
 # Пользовательские файлы (MonoDevelop/Xamarin Studio)
 * .userprefs
+* .csproj
 
 # Моно автоматически сгенерированные файлы
 моно_краш. *
