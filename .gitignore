@@ -17,6 +17,7 @@ bin
 obj
 *.suo
 *.user
+packages
 
 # Пользовательские файлы (MonoDevelop/Xamarin Studio)
 * .userprefs
